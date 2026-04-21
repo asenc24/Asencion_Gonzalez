@@ -4,7 +4,6 @@
 -- Asignatura: Lenguajes de Programación
 --
 -- Estudiante: Asencion Gonzalez
--- Cedula:31.502.822
 -- Email: gaasencion5@gmail.com
 ---------------------------------------------------------------------------------
 
