@@ -1,6 +1,6 @@
 # 💻 Asencion Gonzalez
 
-Estudiante de **Informática** con ganas de aprender haciendo.
+Estudiante de **Informática** 
 
 Esta es mi pagina de GitHub donde guardo:
 - 📚 Trabajos prácticos de la universidad
